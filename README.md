@@ -6,7 +6,7 @@ tags:
 - offline RL
 - decision transformer
 ---
-# ChatGLM-6B
+# Decision Transformer
 <p align="center">
    🌐 <a href="https://chatglm.cn/blog" target="_blank">Blog</a> • 💻 <a href="https://github.com/THUDM/ChatGLM-6B" target="_blank">Github Repo</a> • 🐦 <a href="https://twitter.com/thukeg" target="_blank">Twitter</a> • 📃 <a href="https://arxiv.org/abs/2103.10360" target="_blank">[GLM@ACL 22]</a> <a href="" target="_blank">[GitHub]</a> • 📃 <a href="https://arxiv.org/abs/2210.02414" target="_blank">[GLM-130B@ICLR 23]</a> <a href="https://github.com/THUDM/GLM-130B" target="_blank">[GitHub]</a> <br>
 </p>
