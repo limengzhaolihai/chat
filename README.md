@@ -3,9 +3,8 @@ language:
 - zh
 - en
 tags:
-- glm
-- chatglm
-- thudm
+- offline RL
+- decision transformer
 ---
 # ChatGLM-6B
 <p align="center">
