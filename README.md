@@ -52,29 +52,9 @@ For more instructions, including how to run CLI and web demos, and model quantiz
 
 ## 协议
 
-本仓库的代码依照 [Apache-2.0](LICENSE) 协议开源，ChatGLM-6B 模型的权重的使用则需要遵循 [Model License](MODEL_LICENSE)。
+本仓库的代码依照 [Apache-2.0](LICENSE) 协议开源.
 
 ## 引用
 
 如果你觉得我们的工作有帮助的话，请考虑引用下列论文：
 
-```
-@inproceedings{
-  zeng2023glm-130b,
-  title={{GLM}-130B: An Open Bilingual Pre-trained Model},
-  author={Aohan Zeng and Xiao Liu and Zhengxiao Du and Zihan Wang and Hanyu Lai and Ming Ding and Zhuoyi Yang and Yifan Xu and Wendi Zheng and Xiao Xia and Weng Lam Tam and Zixuan Ma and Yufei Xue and Jidong Zhai and Wenguang Chen and Zhiyuan Liu and Peng Zhang and Yuxiao Dong and Jie Tang},
-  booktitle={The Eleventh International Conference on Learning Representations (ICLR)},
-  year={2023},
-  url={https://openreview.net/forum?id=-Aw0rrrPUF}
-}
-```
-```
-@inproceedings{du2022glm,
-  title={GLM: General Language Model Pretraining with Autoregressive Blank Infilling},
-  author={Du, Zhengxiao and Qian, Yujie and Liu, Xiao and Ding, Ming and Qiu, Jiezhong and Yang, Zhilin and Tang, Jie},
-  booktitle={Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
-  pages={320--335},
-  year={2022}
-}
-```# linuxmain
-# chat
