@@ -30,7 +30,7 @@ tags:
 
 ```ipython
 
-按照ipnyb文件中一步步执行，或者通过工程结构运行代码
+按照ipnyb文件中一步步执行，或者通过工程结构directoryList.md了解代码
 
 ## Change Log
 * v1.1.0 ([942945d](https://huggingface.co/THUDM/chatglm-6b/commit/942945df047dee66f653c68ae0e56655045f1741)): 更新 v1.1 版本 checkpoint
