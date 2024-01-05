@@ -13,7 +13,7 @@ tags:
 
 
 
-**我们发布了decision transformer的模型配置 来训练在openAI的环境中的智能体。
+**我们参考了decision transformer的模型配置 来训练在openAI的环境中的智能体。
 注意在导入D4RL库的时候需要重启COLAB，第一次导入的时间较长需要耐心等待。
 
 
